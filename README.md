@@ -635,6 +635,3 @@ Command Line Interface (CLI)
 
 ---
 
-# 📄 License
-
-This project is created for **learning and educational purposes**.
